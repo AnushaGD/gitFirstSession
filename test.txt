@@ -1,2 +1,3 @@
 This is git first session
 This is git first session second change
+This is git QA2 second session
